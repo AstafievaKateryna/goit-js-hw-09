@@ -17,10 +17,7 @@ img {
   max-width: 100%;
 }
 .main-link {
-  /*
-  color: #61677c;
-  font-weight: 600;
-  font: inherit; */
+margin-bottom: 50px;
   text-decoration: none;
 
   max-width: 150px;
